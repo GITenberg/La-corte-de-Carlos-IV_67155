@@ -1,0 +1,35 @@
+_repo: La-corte-de-Carlos-IV_67155
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pérez Galdós, Benito
+    aliases:
+    - Galdós, Benito Pérez
+    - Perez Galdos, Benito
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '3821'
+    url: http://www.gutenberg.org/2009/agents/3821
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Benito_P%C3%A9rez_Gald%C3%B3s
+    - https://en.wikipedia.org/wiki/Benito_Pérez_Galdós
+description: ''
+gutenberg_issued: '2022-01-13'
+identifiers:
+  gutenberg: '67155'
+language: es
+pgterms:marc904: http://bdh.bne.es/bnesearch/detalle/bdh0000231195
+pgterms:marc905: 20201205210237prezgalds
+pgterms:marc906: '1886'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This ebook was produced from images generously made available
+  by Biblioteca Digital Hispánica/Biblioteca Nacional de España.)
+publication_note: Spain :Imprenta y Litografía de La Guirnalda,1886.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La corte de Carlos IV
+url: http://www.gutenberg.org/ebooks/67155
